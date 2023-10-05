@@ -1,0 +1,19 @@
+@import "./header.css";
+@import "./section.css";
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  height: 1096px;
+  margin-top: 20px;
+}
+
+.none {
+  display: none;
+}

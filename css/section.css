@@ -1,0 +1,173 @@
+section {
+  margin: 0 auto;
+  padding: 11px 16px 41px 16px;
+  background-color: #f0f0f0;
+}
+
+.trust_icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 356px;
+  height: 17.809px;
+  margin-bottom: 20px;
+}
+.trust_icons_1 {
+  color: #2c2b31;
+  font-family: Gotham Pro;
+  font-size: 12.067px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.trust_icons_3 {
+  color: #37d997;
+  font-family: Gotham Pro;
+  font-size: 12.067px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.orthopedic {
+  width: 356px;
+  color: #2c2b31;
+  font-family: Gotham Pro;
+  font-size: 19.168px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.bigphotos img {
+  width: 358px;
+  height: 232px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.smallphotos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 356px;
+  height: 66.03px;
+  margin-bottom: 20px;
+}
+.smallphotos img {
+  width: 80px;
+  height: 66px;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+
+.fastdelivery img,
+.instock img {
+  width: 4%;
+  padding: 5px;
+}
+
+#description_b {
+  color: #000;
+  font-family: Gotham Pro;
+  font-size: 15.29px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 5px;
+}
+
+.fastdelivery {
+  display: flex;
+  align-items: center;
+  width: 313px;
+  height: 15px;
+  color: #000;
+  font-family: Gotham Pro;
+  font-size: 15.29px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.instock {
+  display: flex;
+  align-items: center;
+  width: 313px;
+  height: 15px;
+  color: #000;
+  font-family: Gotham Pro;
+  font-size: 15.29px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.stars {
+  display: flex;
+  align-items: center;
+}
+
+.stars p {
+  width: 30px;
+  height: 15px;
+  color: #2c2b31;
+  font-family: Gotham Pro;
+  font-size: 15.29px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 6px;
+}
+
+.stars img {
+  width: 14px;
+  height: 13px;
+}
+
+.block_btn {
+  display: flex;
+  justify-content: space-between;
+  margin: 22px 0 21px 0;
+}
+
+.block_btn span {
+  color: #2c2b31;
+  text-align: center;
+  font-family: Gotham Pro;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.color {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#select {
+  width: 170px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 15px;
+  text-align: center;
+  border: none;
+  font-family: Gotham Pro;
+  font-size: 21.69px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.size {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buy_now {
+}
